@@ -3,7 +3,6 @@
 #include <cstdlib>   
 #include <algorithm>
 #include <map>
-
 using namespace std;
 
 struct Card {
